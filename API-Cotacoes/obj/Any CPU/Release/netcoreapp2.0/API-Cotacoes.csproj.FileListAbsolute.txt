@@ -1,0 +1,11 @@
+D:\repositories\maratona-bots\API-Cotacoes\bin\Any CPU\Release\netcoreapp2.0\API-Cotacoes.deps.json
+D:\repositories\maratona-bots\API-Cotacoes\bin\Any CPU\Release\netcoreapp2.0\API-Cotacoes.runtimeconfig.json
+D:\repositories\maratona-bots\API-Cotacoes\bin\Any CPU\Release\netcoreapp2.0\API-Cotacoes.runtimeconfig.dev.json
+D:\repositories\maratona-bots\API-Cotacoes\bin\Any CPU\Release\netcoreapp2.0\API-Cotacoes.dll
+D:\repositories\maratona-bots\API-Cotacoes\bin\Any CPU\Release\netcoreapp2.0\API-Cotacoes.pdb
+D:\repositories\maratona-bots\API-Cotacoes\obj\Any CPU\Release\netcoreapp2.0\API-Cotacoes.csprojResolveAssemblyReference.cache
+D:\repositories\maratona-bots\API-Cotacoes\obj\Any CPU\Release\netcoreapp2.0\API-Cotacoes.csproj.CoreCompileInputs.cache
+D:\repositories\maratona-bots\API-Cotacoes\obj\Any CPU\Release\netcoreapp2.0\API-Cotacoes.AssemblyInfoInputs.cache
+D:\repositories\maratona-bots\API-Cotacoes\obj\Any CPU\Release\netcoreapp2.0\API-Cotacoes.AssemblyInfo.cs
+D:\repositories\maratona-bots\API-Cotacoes\obj\Any CPU\Release\netcoreapp2.0\API-Cotacoes.dll
+D:\repositories\maratona-bots\API-Cotacoes\obj\Any CPU\Release\netcoreapp2.0\API-Cotacoes.pdb
